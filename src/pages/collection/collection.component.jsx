@@ -13,6 +13,7 @@ import {
 
 const CollectionPage = ({ collection }) => {
   const { title, items } = collection;
+  console.log("collectionPage was called");
   return (
     <CollectionPageContainer>
       <CollectionTitle>{title}</CollectionTitle>

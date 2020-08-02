@@ -1,5 +1,5 @@
 {
-  "name": "crwn-clothing",
+  "name": "lampros",
   "version": "0.1.0",
   "proxy": "http://localhost:5000",
   "private": true,
@@ -43,5 +43,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "In this repository, all our components have been converted to styled-components!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justin-vocke/krataioo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justin-vocke/krataioo/issues"
+  },
+  "homepage": "https://github.com/justin-vocke/krataioo#readme"
 }
