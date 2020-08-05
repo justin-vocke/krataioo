@@ -29,4 +29,5 @@ const shopReducer = (state = INITIAL_STATE, action) => {
       return state;
   }
 };
+
 export default shopReducer;
