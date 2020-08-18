@@ -11,7 +11,7 @@ const ShopPage = ({ fetchCollectionsStart, match }) => {
 
   useEffect(() => {
     fetchCollectionsStart();
-  }, [])
+  }, [fetchCollectionsStart])
 
 
   return (
